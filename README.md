@@ -1,1 +1,1 @@
-https://practicum.yandex.ru/learn/mgkeit-web-developer/courses/5bf33d15-50ba-4baf-bd65-d61a2c614d9c/sprints/743151/topics/3c125fc3-534b-4416-bf99-98a61ab80139/lessons/dc08f73e-ea6c-4c67-9b2a-3359e3c240ac/
+https://github.com/domikzer-kun/slozhno-sosredotochitsya-ad
